@@ -17,7 +17,7 @@ html {
 
 body {
   display: flex; 
-  justify-align: center; align-items: center; flex-flow: column;
+  justify-content: center; align-items: center; flex-flow: column;
 }
 
 
@@ -57,12 +57,12 @@ main {
 
   display: flex;
   flex-direction: row;
-  justify-align: center; align-items: center;
+  justify-content: center; align-items: center;
 
 } main:last-child {
 
   display: flex; 
-  justify-align: center; align-items: center; flex-flow: column;
+  justify-content: center; align-items: center; flex-flow: column;
   
   padding: 4rem;
 
