@@ -234,6 +234,17 @@ header span {
 
 
 /* Celulares médios */
+@media only screen and (max-width: 430px) {
+
+  footer div, header div {
+
+    width: 0;
+
+  }
+
+}
+
+/* Celulares médios */
 @media only screen and (max-width: 600px) {
 
   main:first-child {
